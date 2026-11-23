@@ -45,6 +45,15 @@ Primary CTAs: REQUEST A QUOTE, RENT A GENERATOR, REQUEST SERVICE, PLAN AN INSTAL
 Write concise Canadian B2B copy, clear service descriptions, realistic capabilities, buyer-focused benefits and accessible CTAs. Present business as direct accountable provider with qualified trade partners where needed, not a lead marketplace. Never claim 24/7 staffing, Canada-wide physical locations, certifications, equipment ownership, OEM dealership status, guaranteed response times or customer testimonials without confirmation. Include legal safety notes and defer electrical/fuel work to licensed professionals.
 
 ## SEO and AEO requirements
+
+**Editorial standard · Google E-E-A-T**
+
+Start with the decision the reader came to make. Where first-hand experience helps, use work the publisher can document and share. Identify the real author or reviewer where readers would expect it. Explain the method when it affects interpretation. Support consequential claims with the relevant original source and claim outside recognition only when readers can verify it.
+
+Match generator ratings to the exact manufacturer document and configuration. Attribute site tests or commissioning experience only to people who actually performed the work, with permission. Cite the applicable authority and obtain qualified review for electrical and life-safety claims.
+
+During content review, trace a representative claim to its evidence. Qualify or omit unsupported statements in visible copy, translations and structured data. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 - Bilingual EN/FR (Canadian/Québec-appropriate French) from day one, with equivalent pages, proper hreflang (en-CA/fr-CA), canonicals, indexable URLs, translated metadata and accessible language switching in the top bar.
 - Unique page titles, descriptions, one H1, logical headings, semantic HTML, internal links, descriptive alt text and original service/industry/city copy.
 - Structured data: Organization, Service, BreadcrumbList, FAQPage only where eligible and appropriate; do not promise rich results or fabricate ratings.
